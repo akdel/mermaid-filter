@@ -1,3 +1,8 @@
+### Solves the issue with missing arrow-heads in macOS + pandoc 1.19.2.1
+**The fix => This forked version is uses mermaid@7.0.0**
+
+
+
 Sequence and Graph diagrams in your markdown files!
 =========================
 
