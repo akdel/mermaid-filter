@@ -1,10 +1,8 @@
-### Solves the issue with missing arrow-heads in macOS + pandoc 1.19.2.1
-**The fix => This forked version is uses mermaid@7.0.0**
-
-
-
 Sequence and Graph diagrams in your markdown files!
 =========================
+
+## Solves the issue with missing arrow-heads in macOS + pandoc 1.19.2.1
+**The fix** => This forked version is uses `mermaid@7.0.0`.
 
 `mermaid-filter` is a pandoc filter that adds support for [mermaid](http://knsv.github.io/mermaid/) syntax diagrams in markdown.
 
